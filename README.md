@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jennimartinez
-- 👀 I’m interested in how machine learning can influence healthcare. 
-- 🌱 I’m currently learning how to program in Python, R, and bash script at Northeastern University. My major is Bioinformatics with a concentration in Data Analytics (Machine Learning/Data Mining)
-- 💞️ I’m looking to collaborate with others throughout the summer as I take a summer class to refine my skills.
+- 👋 Hi, I’m Jenn; welcome to my GitHub.
+- 👀 I’m interested in precision oncology and how machine learning can create better medicine patients. 
+- 🌱 I'm currently reaching the end of my Bioinformatics program at Northeastern University (Boston, MA), where I am learning how to program in Python, R, bash script.
+- 💞️I am on the lookout for a co-op this Spring/Summer 2022 with the hopes that my requirements will be completed by Aug. 2022.
 - 📫 How to reach me: please email me [1](martinez.je@northeastern.edu ) [2](jennijmartinez@gmail.com). I am also on [Twitter](https://twitter.com/_martinezjenn).
 
 <!---
